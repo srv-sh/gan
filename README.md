@@ -11,4 +11,7 @@ pip install -r requirements.txt
  https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg?resourcekey=0-rJlzl934LzC-Xp28GeIBzQ
 
  download img_align_celeba.zip folder and unzip it to ```data/celeba```
+ 
+ To train the model run gan.py
+ 
 
