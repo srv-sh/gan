@@ -1,7 +1,7 @@
 # gan
 
 ```
-conda create -n gan python3.9.0
+conda create -n gan python=3.9.0
 conda activate gan
 pip install -r requirements.txt
 
